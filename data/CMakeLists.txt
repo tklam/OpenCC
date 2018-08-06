@@ -16,6 +16,7 @@ set(
   HKVariants
   HKVariantsPhrases
   HKVariantsRevPhrases
+  HKSTCharacters
 )
 
 set(
